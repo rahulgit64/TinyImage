@@ -37,4 +37,4 @@ Adjust Quality: Use the quality slider to set the compression level.
 Download: After resizing, click the "Download Image" button to save the resized image.
 
 ![image alt](https://github.com/rahulgit64/TinyImage/blob/729c43fc7cf8a0478b1969d44b043edf79cfb796/1.jpg)
-
+![image alt](https://github.com/rahulgit64/TinyImage/blob/aef15fd1db43801d83e805009274bde38458cbd9/2.jpg)

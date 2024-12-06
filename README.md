@@ -23,6 +23,7 @@ JavaScript (Vanilla JS for functionality)
 
 
 *** How It Works
+
 Upload an Image: Click the "Upload Photo" button to select an image from your device.
 Preview: The uploaded image is displayed with its original dimensions.
 Choose Resize Options:

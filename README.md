@@ -38,5 +38,5 @@ Download: After resizing, click the "Download Image" button to save the resized 
 
 ![image alt](https://github.com/rahulgit64/TinyImage/blob/729c43fc7cf8a0478b1969d44b043edf79cfb796/1.jpg)
 ![image alt](https://github.com/rahulgit64/TinyImage/blob/f6c8c9124abd63db30e5c7317beda51bd09d56c0/3.jpg)
-
+![image alt](https://github.com/rahulgit64/TinyImage/blob/dd7134b25b9dfdf7fbe7a69baae8543f951fd819/2.jpg)
 ![image alt](https://github.com/rahulgit64/TinyImage/blob/f80c093425e0364761b7a353182b51a43d9d7c38/4.jpg)
